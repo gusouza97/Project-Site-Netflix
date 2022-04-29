@@ -9,41 +9,41 @@ let activeIndex = 0; // the current page on the slider
 let movies = [
   {
     src:
-      "../img/mini1.jpg",
+      "img/mini1.jpg",
   },
   {
     src:
-      "../img/mini2.jpg",
-  },
-
-  {
-    src:
-      "../img/mini3.jpg",
+      "img/mini2.jpg",
   },
 
   {
     src:
-      "../img/mini4.jpg",
+      "img/mini3.jpg",
+  },
+
+  {
+    src:
+      "img/mini4.jpg",
   },
   {
     src:
-      "../img/mini5.jpg",
+      "img/mini5.jpg",
   },
   {
     src:
-      "../img/mini6.jpg",
+      "img/mini6.jpg",
   },
   {
     src:
-      "../img/mini7.jpg",
+      "img/mini7.jpg",
   },
   {
     src:
-      "../img/mini8.jpg",
+      "img/mini8.jpg",
   },
   {
     src:
-      "../img/mini9.jpg",
+      "img/mini9.jpg",
   }
 ];
 
