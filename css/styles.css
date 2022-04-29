@@ -49,6 +49,7 @@ header nav ul {
 }
 
 header nav ul li {
+    font-family: sans-serif;
     color: var(--cinza);
     cursor: pointer;
     display: flex;
